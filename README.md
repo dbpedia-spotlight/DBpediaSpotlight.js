@@ -10,7 +10,7 @@ Multilingual DBpedia Spotlight for Named Entity Recognition
 ## Usage
 ```javascript
   //use default endpoints
-  var mlspotlight = require('MDBSpotlight');
+  var mlspotlight = require('multi-db-spotlight');
   input="My text to be analyzed."
   mlspotlight.annotate(input,function(output){
     console.log(output);
