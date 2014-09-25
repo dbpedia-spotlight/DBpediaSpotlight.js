@@ -4,7 +4,7 @@ MDBSpotlight
 Multilingual DBpedia Spotlight for Named Entity Recognition
 
 ## About
-MDBSpotlight provides contextual knowdlege for your text by extracting the mentions of Wikipedia articles (i.e. DBpedia resources) using multilingual support.
+MDBSpotlight provides contextual knowledge for your text by extracting the mentions of Wikipedia articles (i.e. DBpedia resources) using multilingual support.
 For more information, check out DBpedia Spotlight https://github.com/dbpedia-spotlight/
 
 ## Installation
