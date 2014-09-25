@@ -20,7 +20,7 @@ For more information, check out DBpedia Spotlight https://github.com/dbpedia-spo
     console.log(output);
   })
 
-  //use custome endpoints
+  //use custom endpoints
   mlspotlight.configEndpoints(
     {
       "english": {
