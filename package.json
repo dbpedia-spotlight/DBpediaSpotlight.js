@@ -1,5 +1,5 @@
 {
-  "name": "MDBSpotlight",
+  "name": "multi-db-spotlight",
   "version": "0.5.1",
   "description": "Multilingual DBpedia Spotlight for Named Entity Recognition",
   "main": "index.js",
