@@ -5,9 +5,10 @@ Multilingual DBpedia Spotlight for Named Entity Recognition
 
 ## Installation
 
-  npm install MDBSpotlight --save
+  npm install multi-db-spotlight --save
 
 ## Usage
+```
   //use default endpoints
   var mlspotlight = require('MDBSpotlight');
   input="My text to be analyzed."
@@ -37,3 +38,4 @@ Multilingual DBpedia Spotlight for Named Entity Recognition
   mlspotlight.annotate(input,function(output){
     console.log(output);
   })
+  ```
