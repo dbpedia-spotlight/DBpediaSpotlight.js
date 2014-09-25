@@ -3,9 +3,6 @@
   "version": "0.5.1",
   "description": "Multilingual DBpedia Spotlight for Named Entity Recognition",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/ali1k/MDBSpotlight.git"
