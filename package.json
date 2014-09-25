@@ -23,5 +23,5 @@
   "homepage": "https://github.com/ali1k/MDBSpotlight",
   "dependencies": {
       "languagedetect":"~1.1.1"
-  },
+  }
 }
