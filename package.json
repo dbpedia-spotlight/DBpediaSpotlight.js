@@ -1,0 +1,40 @@
+{
+  "name": "MDBSpotlight",
+  "description": "Multilingual DBpedia Spotlight",
+  "keywords": [
+    "NLP",
+    "Multilingual",
+    "language detection",
+    "DBpedia",
+    "Spotlight"
+  ],
+  "homepage": "https://github.com/ali1k/MDBSpotlight",
+  "author": {
+    "name": "Ali Khalili",
+    "email": "hyperir@gmail.com",
+    "url": "http://ali1k.com"
+  },
+  "dependencies": {
+      "languagedetect":"~1.1.1"
+  },
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ali1k/MDBSpotlight.git"
+  },
+  "licenses": [
+    {
+      "type": "BSD",
+      "url": "http://github.com/FGRibreau/node-language-detect/blob/master/LICENSE"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.4.8"
+  },
+  "maintainers": [
+    {
+      "name": "ali1k",
+      "email": "hyperir@gmail.com"
+    }
+  ]
+}
