@@ -1,6 +1,6 @@
 {
   "name": "multi-db-spotlight",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "description": "Multilingual DBpedia Spotlight for Named Entity Recognition",
   "main": "index.js",
   "repository": {
