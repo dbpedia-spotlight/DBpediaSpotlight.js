@@ -1,40 +1,35 @@
 {
   "name": "MDBSpotlight",
-  "description": "Multilingual DBpedia Spotlight",
+  "version": "0.5.0",
+  "description": "Multilingual DBpedia Spotlight for Named Entity Recognition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ali1k/MDBSpotlight.git"
+  },
   "keywords": [
     "NLP",
     "Multilingual",
-    "language detection",
     "DBpedia",
-    "Spotlight"
+    "Spotlight",
+    "Language",
+    "Text"
   ],
-  "homepage": "https://github.com/ali1k/MDBSpotlight",
-  "author": {
-    "name": "Ali Khalili",
-    "email": "hyperir@gmail.com",
-    "url": "http://ali1k.com"
+  "author": "Ali Khalili <hyperir@gmail.com> (http://ali1k.com/)",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/ali1k/MDBSpotlight/issues"
   },
+  "homepage": "https://github.com/ali1k/MDBSpotlight",
   "dependencies": {
       "languagedetect":"~1.1.1"
   },
-  "main": "index",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/ali1k/MDBSpotlight.git"
-  },
-  "licenses": [
-    {
-      "type": "BSD",
-      "url": "http://github.com/FGRibreau/node-language-detect/blob/master/LICENSE"
-    }
-  ],
-  "engines": {
-    "node": ">= 0.4.8"
-  },
-  "maintainers": [
-    {
-      "name": "ali1k",
-      "email": "hyperir@gmail.com"
-    }
-  ]
 }
