@@ -1,6 +1,6 @@
 {
   "name": "multi-db-spotlight",
-  "version": "0.5.21",
+  "version": "0.5.22",
   "description": "Multilingual DBpedia Spotlight for Named Entity Recognition",
   "main": "index.js",
   "repository": {
@@ -22,6 +22,10 @@
   },
   "homepage": "https://github.com/ali1k/MDBSpotlight",
   "dependencies": {
-      "languagedetect":"~1.1.1"
+    "languagedetect": "~1.1.1"
+  },
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "mocha": "^1.21.4"
   }
 }
