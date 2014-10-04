@@ -9,5 +9,6 @@ describe('#annotate', function() {
     var output='';
     annotate(input).should.equal(output);
   });
-  */
+
 });
+*/
