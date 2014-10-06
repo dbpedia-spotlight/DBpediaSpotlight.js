@@ -42,4 +42,9 @@ For more information, check out DBpedia Spotlight https://github.com/dbpedia-spo
   mlspotlight.annotate(input,function(output){
     console.log(output);
   })
+
+  //fix to a specific endpoint (i.e. disabling language detection)
+  mlspotlight.fixToEndpoint('german');
+  //unfix endpoint (i.e. enabling language detection)
+  mlspotlight.unfixEndpoint();
   ```

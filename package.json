@@ -1,11 +1,11 @@
 {
   "name": "multi-db-spotlight",
-  "version": "0.5.24",
+  "version": "0.5.25",
   "description": "Multilingual DBpedia Spotlight for Named Entity Recognition",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ali1k/MDBSpotlight.git"
+    "url": "https://github.com/dbpedia-spotlight/MDBSpotlight.git"
   },
   "keywords": [
     "NLP",
@@ -18,9 +18,9 @@
   "author": "Ali Khalili <hyperir@gmail.com> (http://ali1k.com/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ali1k/MDBSpotlight/issues"
+    "url": "https://github.com/dbpedia-spotlight/MDBSpotlight/issues"
   },
-  "homepage": "https://github.com/ali1k/MDBSpotlight",
+  "homepage": "https://github.com/dbpedia-spotlight/MDBSpotlight",
   "dependencies": {
     "languagedetect": "~1.1.1"
   },
