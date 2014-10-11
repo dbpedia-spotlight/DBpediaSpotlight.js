@@ -9,12 +9,12 @@ For more information, check out DBpedia Spotlight https://github.com/dbpedia-spo
 
 ## Installation
 
-  npm install multi-db-spotlight --save
+  npm install dbpedia-spotlight --save
 
 ## Usage
 ```javascript
   //use default endpoints
-  var mlspotlight = require('multi-db-spotlight');
+  var mlspotlight = require('dbpedia-spotlight');
   input="My text to be analyzed."
   mlspotlight.annotate(input,function(output){
     console.log(output);
