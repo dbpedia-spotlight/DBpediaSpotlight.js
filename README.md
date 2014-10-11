@@ -1,10 +1,10 @@
-MDBSpotlight
+DBpediaSpotlight.js
 ============
 
-Multilingual DBpedia Spotlight for Named Entity Recognition
+NodeJS package for DBpedia Spotlight
 
 ## About
-MDBSpotlight provides contextual knowledge for your text by extracting the mentions of Wikipedia articles (i.e. DBpedia resources) using multilingual support.
+DBpediaSpotlight.js provides contextual knowledge for your text by extracting the mentions of Wikipedia articles (i.e. DBpedia resources) using multilingual support.
 For more information, check out DBpedia Spotlight https://github.com/dbpedia-spotlight/
 
 ## Installation
