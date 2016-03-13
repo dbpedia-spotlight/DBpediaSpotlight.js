@@ -24,6 +24,8 @@ For more information, check out DBpedia Spotlight https://github.com/dbpedia-spo
   mlspotlight.configEndpoints(
     {
       "english": {
+      protocol:'https:',
+      auth:'testuser:password123',
       host:'context.aksw.org',
       path:'/spotlight/english',
       port:'8080',
