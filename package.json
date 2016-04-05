@@ -29,6 +29,6 @@
     "mocha": "^1.21.4"
   },
   "scripts": {
-    "test": "make test"
+    "test": "node test/index.js"
   }
 }
