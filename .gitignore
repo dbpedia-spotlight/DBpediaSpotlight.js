@@ -1,0 +1,7 @@
+node_modules
+build
+*.log
+logs/*.log
+tmp.js
+*.lock
+.DS_Store
