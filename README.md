@@ -1,4 +1,4 @@
-DBpediaSpotlight.js [![Build Status](https://travis-ci.org/poke19962008/DBpediaSpotlight.js.svg?branch=master)](https://travis-ci.org/poke19962008/DBpediaSpotlight.js)
+DBpediaSpotlight.js [![Build Status](https://travis-ci.org/dbpedia-spotlight/DBpediaSpotlight.js.svg?branch=master)](https://travis-ci.org/dbpedia-spotlight/DBpediaSpotlight.js)
 ============
 
 NodeJS package for DBpedia Spotlight
