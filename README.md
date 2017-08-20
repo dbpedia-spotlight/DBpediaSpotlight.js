@@ -1,4 +1,4 @@
-DBpediaSpotlight.js
+DBpediaSpotlight.js [![Build Status](https://travis-ci.org/poke19962008/DBpediaSpotlight.js.svg?branch=master)](https://travis-ci.org/poke19962008/DBpediaSpotlight.js)
 ============
 
 NodeJS package for DBpedia Spotlight
@@ -18,7 +18,7 @@ For more information, check out DBpedia Spotlight https://github.com/dbpedia-spo
   input="My text to be analyzed."
   mlspotlight.annotate(input,function(output){
     console.log(output);
-  })
+  });
 
   //use custom endpoints
   mlspotlight.configEndpoints(
@@ -43,7 +43,7 @@ For more information, check out DBpedia Spotlight https://github.com/dbpedia-spo
   );
   mlspotlight.annotate(input,function(output){
     console.log(output);
-  })
+  });
 
   //fix to a specific endpoint (i.e. disabling language detection)
   mlspotlight.fixToEndpoint('german');
