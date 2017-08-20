@@ -1,4 +1,4 @@
-DBpediaSpotlight.js [![npm version](https://img.shields.io/npm/v/dbpedia-spotlight.svg)](https://www.npmjs.com/package/boilerplate)
+DBpediaSpotlight.js [![npm version](https://img.shields.io/npm/v/dbpedia-spotlight.svg)](https://www.npmjs.com/package/dbpedia-spotlight)
 [![Build Status](https://travis-ci.org/dbpedia-spotlight/DBpediaSpotlight.js.svg?branch=master)](https://travis-ci.org/dbpedia-spotlight/DBpediaSpotlight.js)
 [![license](https://img.shields.io/github/license/dbpedia-spotlight/DBpediaSpotlight.js.svg?style=flat)](LICENSE)
 ============
